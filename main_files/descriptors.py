@@ -78,10 +78,11 @@ def BehPar(atoms, eta, xi, rc):
                 perm.append(p)
 
         for j, k in perm:
-            theta = np.cos(atoms.get_angle(j, i, k)*np.pi/180)
-            rij = atoms.get_distance(i, j)
-            rik = atoms.get_distance(i, k)
+            #theta = np.cos(atoms.get_angle(j, i, k)*np.pi/180)
+            rij = atoms.get_distance(i, j); Rij = atoms.positions[j, :]-atoms.positions[i, :]
+            rik = atoms.get_distance(i, k); Rik = atoms.positions[k, :]-atoms.positions[i, :]
             rjk = atoms.get_distance(j, k)
+            theta = (Rij@Rik)/(np.sqrt(Rij@Rij)*np.sqrt(Rik@Rik))
             F[i, num_radial::] += (1+lamb*theta)**Xi*np.exp(-eta_ang*(rij**2+rik**2+rjk**2)/rc**2)*BehParCutOff(rij, rc)*BehParCutOff(rik, rc)*BehParCutOff(rjk, rc)
     F[:, num_radial::] *= 2**(1-Xi)
 
