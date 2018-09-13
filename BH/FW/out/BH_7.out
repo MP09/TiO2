@@ -1,0 +1,3189 @@
+========= Job started  at Wed Sep 12 22:43:41 CEST 2018 ==========
+/home/machri/TiO2/BH/FW
+Settings:
+Using machine learning: False
+Using the fireworkspertubation
+Basinhoping started
+#====================Iteration 0====================#
+        Number of pertubed atoms: 2
+        Relaxation took   4.56 s
+        Best energy: -1917.84 eV
+        Cand. energy: -1906.00 eV
+#====================Iteration 1====================#
+        Number of pertubed atoms: 3
+        Relaxation took  16.09 s
+        Best energy: -1917.84 eV
+        Cand. energy: -1908.91 eV
+#====================Iteration 2====================#
+        Number of pertubed atoms: 2
+        Relaxation took   6.08 s
+        Best energy: -1917.84 eV
+        Cand. energy: -1910.97 eV
+#====================Iteration 3====================#
+        Number of pertubed atoms: 3
+        Relaxation took  12.82 s
+        Best energy: -1921.45 eV
+        Cand. energy: -1921.45 eV
+#====================Iteration 4====================#
+        Number of pertubed atoms: 1
+        Relaxation took  19.91 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1929.19 eV
+#====================Iteration 5====================#
+        Number of pertubed atoms: 3
+        Relaxation took  10.38 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1920.51 eV
+#====================Iteration 6====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.11 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1924.34 eV
+#====================Iteration 7====================#
+        Number of pertubed atoms: 1
+        Relaxation took   3.84 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1923.75 eV
+#====================Iteration 8====================#
+        Number of pertubed atoms: 3
+        Relaxation took  11.08 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1928.44 eV
+#====================Iteration 9====================#
+        Number of pertubed atoms: 2
+        Relaxation took  21.26 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1927.35 eV
+#====================Iteration 10====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.02 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1929.17 eV
+#====================Iteration 11====================#
+        Number of pertubed atoms: 2
+        Relaxation took  11.53 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1917.52 eV
+#====================Iteration 12====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.89 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1924.77 eV
+#====================Iteration 13====================#
+        Number of pertubed atoms: 1
+        Relaxation took  13.75 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1921.78 eV
+#====================Iteration 14====================#
+        Number of pertubed atoms: 1
+        Relaxation took  16.30 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1928.45 eV
+#====================Iteration 15====================#
+        Number of pertubed atoms: 8
+        Relaxation took  27.18 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1922.00 eV
+#====================Iteration 16====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.32 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1918.62 eV
+#====================Iteration 17====================#
+        Number of pertubed atoms: 2
+        Relaxation took  11.74 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1926.83 eV
+#====================Iteration 18====================#
+        Number of pertubed atoms: 3
+        Relaxation took  14.43 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1922.85 eV
+#====================Iteration 19====================#
+        Number of pertubed atoms: 1
+        Relaxation took  17.16 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1928.47 eV
+#====================Iteration 20====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.20 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1927.13 eV
+#====================Iteration 21====================#
+        Number of pertubed atoms: 4
+        Relaxation took  17.24 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1924.15 eV
+#====================Iteration 22====================#
+        Number of pertubed atoms: 5
+        Relaxation took  15.65 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1917.81 eV
+#====================Iteration 23====================#
+        Number of pertubed atoms: 3
+        Relaxation took  20.49 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1927.11 eV
+#====================Iteration 24====================#
+        Number of pertubed atoms: 3
+        Relaxation took  12.58 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1921.32 eV
+#====================Iteration 25====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.86 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1921.47 eV
+#====================Iteration 26====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.86 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1927.64 eV
+#====================Iteration 27====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.98 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1925.04 eV
+#====================Iteration 28====================#
+        Number of pertubed atoms: 3
+        Relaxation took  10.72 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1916.60 eV
+#====================Iteration 29====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.69 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1922.85 eV
+#====================Iteration 30====================#
+        Number of pertubed atoms: 5
+        Relaxation took  18.01 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1915.12 eV
+#====================Iteration 31====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.22 s
+        Best energy: -1929.19 eV
+        Cand. energy: -1929.19 eV
+#====================Iteration 32====================#
+        Number of pertubed atoms: 3
+        Relaxation took  15.71 s
+        Best energy: -1930.41 eV
+        Cand. energy: -1930.41 eV
+#====================Iteration 33====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.02 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1930.44 eV
+#====================Iteration 34====================#
+        Number of pertubed atoms: 2
+        Relaxation took  12.36 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1928.18 eV
+#====================Iteration 35====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.88 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1926.95 eV
+#====================Iteration 36====================#
+        Number of pertubed atoms: 3
+        Relaxation took  20.75 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1927.51 eV
+#====================Iteration 37====================#
+        Number of pertubed atoms: 2
+        Relaxation took   5.55 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1923.50 eV
+#====================Iteration 38====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.46 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1927.53 eV
+#====================Iteration 39====================#
+        Number of pertubed atoms: 4
+        Relaxation took   9.70 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1924.15 eV
+#====================Iteration 40====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.58 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1925.81 eV
+#====================Iteration 41====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.76 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1922.48 eV
+#====================Iteration 42====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.41 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1925.00 eV
+#====================Iteration 43====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.95 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1927.36 eV
+#====================Iteration 44====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.80 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1930.44 eV
+#====================Iteration 45====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.81 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1927.98 eV
+#====================Iteration 46====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.99 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1922.16 eV
+#====================Iteration 47====================#
+        Number of pertubed atoms: 2
+        Relaxation took  12.06 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1924.33 eV
+#====================Iteration 48====================#
+        Number of pertubed atoms: 3
+        Relaxation took  19.13 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1921.47 eV
+#====================Iteration 49====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.04 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1924.48 eV
+#====================Iteration 50====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.80 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1928.99 eV
+#====================Iteration 51====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.17 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1922.19 eV
+#====================Iteration 52====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.41 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1927.87 eV
+#====================Iteration 53====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.07 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1927.64 eV
+#====================Iteration 54====================#
+        Number of pertubed atoms: 1
+        Relaxation took  20.37 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1929.47 eV
+#====================Iteration 55====================#
+        Number of pertubed atoms: 2
+        Relaxation took   9.41 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1920.69 eV
+#====================Iteration 56====================#
+        Number of pertubed atoms: 1
+        Relaxation took  12.20 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1923.45 eV
+#====================Iteration 57====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.10 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1924.75 eV
+#====================Iteration 58====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.88 s
+        Best energy: -1930.44 eV
+        Cand. energy: -1930.44 eV
+#====================Iteration 59====================#
+        Number of pertubed atoms: 2
+        Relaxation took  10.46 s
+        Best energy: -1931.32 eV
+        Cand. energy: -1931.32 eV
+#====================Iteration 60====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.37 s
+        Best energy: -1931.32 eV
+        Cand. energy: -1929.73 eV
+#====================Iteration 61====================#
+        Number of pertubed atoms: 2
+        Relaxation took   5.64 s
+        Best energy: -1931.32 eV
+        Cand. energy: -1916.56 eV
+#====================Iteration 62====================#
+        Number of pertubed atoms: 5
+        Relaxation took  16.04 s
+        Best energy: -1931.32 eV
+        Cand. energy: -1914.92 eV
+#====================Iteration 63====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.54 s
+        Best energy: -1931.32 eV
+        Cand. energy: -1931.25 eV
+#====================Iteration 64====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.06 s
+        Best energy: -1931.32 eV
+        Cand. energy: -1928.80 eV
+#====================Iteration 65====================#
+        Number of pertubed atoms: 3
+        Relaxation took  11.60 s
+        Best energy: -1931.32 eV
+        Cand. energy: -1925.96 eV
+#====================Iteration 66====================#
+        Number of pertubed atoms: 1
+        Relaxation took   2.12 s
+        Best energy: -1931.32 eV
+        Cand. energy: -1925.87 eV
+#====================Iteration 67====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.22 s
+        Best energy: -1931.32 eV
+        Cand. energy: -1921.49 eV
+#====================Iteration 68====================#
+        Number of pertubed atoms: 4
+        Relaxation took  11.07 s
+        Best energy: -1931.32 eV
+        Cand. energy: -1924.68 eV
+#====================Iteration 69====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.26 s
+        Best energy: -1931.34 eV
+        Cand. energy: -1931.34 eV
+#====================Iteration 70====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.30 s
+        Best energy: -1931.34 eV
+        Cand. energy: -1928.84 eV
+#====================Iteration 71====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.40 s
+        Best energy: -1931.34 eV
+        Cand. energy: -1929.09 eV
+#====================Iteration 72====================#
+        Number of pertubed atoms: 2
+        Relaxation took  20.43 s
+        Best energy: -1931.34 eV
+        Cand. energy: -1929.57 eV
+#====================Iteration 73====================#
+        Number of pertubed atoms: 2
+        Relaxation took   9.15 s
+        Best energy: -1931.34 eV
+        Cand. energy: -1919.62 eV
+#====================Iteration 74====================#
+        Number of pertubed atoms: 1
+        Relaxation took   3.92 s
+        Best energy: -1931.34 eV
+        Cand. energy: -1928.80 eV
+#====================Iteration 75====================#
+        Number of pertubed atoms: 4
+        Relaxation took  17.00 s
+        Best energy: -1931.34 eV
+        Cand. energy: -1922.75 eV
+#====================Iteration 76====================#
+        Number of pertubed atoms: 2
+        Relaxation took   6.94 s
+        Best energy: -1931.34 eV
+        Cand. energy: -1929.14 eV
+#====================Iteration 77====================#
+        Number of pertubed atoms: 4
+        Relaxation took  13.14 s
+        Best energy: -1931.34 eV
+        Cand. energy: -1922.01 eV
+#====================Iteration 78====================#
+        Number of pertubed atoms: 3
+        Relaxation took  20.17 s
+        Best energy: -1931.34 eV
+        Cand. energy: -1925.36 eV
+#====================Iteration 79====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.47 s
+        Best energy: -1931.34 eV
+        Cand. energy: -1927.23 eV
+#====================Iteration 80====================#
+        Number of pertubed atoms: 3
+        Relaxation took  11.86 s
+        Best energy: -1931.34 eV
+        Cand. energy: -1921.10 eV
+#====================Iteration 81====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.82 s
+        Best energy: -1931.34 eV
+        Cand. energy: -1931.29 eV
+#====================Iteration 82====================#
+        Number of pertubed atoms: 3
+        Relaxation took  25.08 s
+        Best energy: -1931.34 eV
+        Cand. energy: -1921.77 eV
+#====================Iteration 83====================#
+        Number of pertubed atoms: 1
+        Relaxation took  13.56 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1931.36 eV
+#====================Iteration 84====================#
+        Number of pertubed atoms: 1
+        Relaxation took  12.78 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1926.88 eV
+#====================Iteration 85====================#
+        Number of pertubed atoms: 3
+        Relaxation took   9.53 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1913.70 eV
+#====================Iteration 86====================#
+        Number of pertubed atoms: 3
+        Relaxation took  11.50 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1917.99 eV
+#====================Iteration 87====================#
+        Number of pertubed atoms: 1
+        Relaxation took  12.84 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1929.76 eV
+#====================Iteration 88====================#
+        Number of pertubed atoms: 2
+        Relaxation took   6.21 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1928.62 eV
+#====================Iteration 89====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.27 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1925.82 eV
+#====================Iteration 90====================#
+        Number of pertubed atoms: 5
+        Relaxation took  12.41 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1923.29 eV
+#====================Iteration 91====================#
+        Number of pertubed atoms: 2
+        Relaxation took  15.59 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1922.57 eV
+#====================Iteration 92====================#
+        Number of pertubed atoms: 4
+        Relaxation took  15.21 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1916.41 eV
+#====================Iteration 93====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.53 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1921.48 eV
+#====================Iteration 94====================#
+        Number of pertubed atoms: 2
+        Relaxation took   9.39 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1923.95 eV
+#====================Iteration 95====================#
+        Number of pertubed atoms: 5
+        Relaxation took  17.18 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1914.25 eV
+#====================Iteration 96====================#
+        Number of pertubed atoms: 5
+        Relaxation took  34.97 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1915.50 eV
+#====================Iteration 97====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.34 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1920.90 eV
+#====================Iteration 98====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.53 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1923.00 eV
+#====================Iteration 99====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.13 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1924.19 eV
+#====================Iteration 100====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.80 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1931.36 eV
+#====================Iteration 101====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.80 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1931.36 eV
+#====================Iteration 102====================#
+        Number of pertubed atoms: 3
+        Relaxation took   6.73 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1909.32 eV
+#====================Iteration 103====================#
+        Number of pertubed atoms: 2
+        Relaxation took  12.39 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1920.08 eV
+#====================Iteration 104====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.82 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1922.97 eV
+#====================Iteration 105====================#
+        Number of pertubed atoms: 3
+        Relaxation took  19.28 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1929.44 eV
+#====================Iteration 106====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.23 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1923.93 eV
+#====================Iteration 107====================#
+        Number of pertubed atoms: 5
+        Relaxation took   6.59 s
+        Best energy: -1931.36 eV
+        Cand. energy: -1920.48 eV
+#====================Iteration 108====================#
+        Number of pertubed atoms: 1
+        Relaxation took  15.84 s
+        Best energy: -1931.37 eV
+        Cand. energy: -1931.37 eV
+#====================Iteration 109====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.69 s
+        Best energy: -1931.37 eV
+        Cand. energy: -1924.44 eV
+#====================Iteration 110====================#
+        Number of pertubed atoms: 3
+        Relaxation took  21.54 s
+        Best energy: -1931.37 eV
+        Cand. energy: -1926.66 eV
+#====================Iteration 111====================#
+        Number of pertubed atoms: 5
+        Relaxation took  18.64 s
+        Best energy: -1931.37 eV
+        Cand. energy: -1916.65 eV
+#====================Iteration 112====================#
+        Number of pertubed atoms: 1
+        Relaxation took  16.57 s
+        Best energy: -1931.37 eV
+        Cand. energy: -1930.57 eV
+#====================Iteration 113====================#
+        Number of pertubed atoms: 4
+        Relaxation took  13.17 s
+        Best energy: -1931.37 eV
+        Cand. energy: -1919.44 eV
+#====================Iteration 114====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.81 s
+        Best energy: -1931.37 eV
+        Cand. energy: -1931.37 eV
+#====================Iteration 115====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.87 s
+        Best energy: -1931.37 eV
+        Cand. energy: -1925.87 eV
+#====================Iteration 116====================#
+        Number of pertubed atoms: 3
+        Relaxation took  13.43 s
+        Best energy: -1931.37 eV
+        Cand. energy: -1921.37 eV
+#====================Iteration 117====================#
+        Number of pertubed atoms: 2
+        Relaxation took  21.24 s
+        Best energy: -1931.37 eV
+        Cand. energy: -1929.29 eV
+#====================Iteration 118====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.37 s
+        Best energy: -1931.37 eV
+        Cand. energy: -1921.32 eV
+#====================Iteration 119====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.15 s
+        Best energy: -1931.37 eV
+        Cand. energy: -1931.37 eV
+#====================Iteration 120====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.54 s
+        Best energy: -1931.37 eV
+        Cand. energy: -1924.82 eV
+#====================Iteration 121====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.53 s
+        Best energy: -1931.37 eV
+        Cand. energy: -1923.44 eV
+#====================Iteration 122====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.20 s
+        Best energy: -1931.37 eV
+        Cand. energy: -1924.10 eV
+#====================Iteration 123====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.92 s
+        Best energy: -1931.37 eV
+        Cand. energy: -1926.45 eV
+#====================Iteration 124====================#
+        Number of pertubed atoms: 3
+        Relaxation took   7.47 s
+        Best energy: -1931.89 eV
+        Cand. energy: -1931.89 eV
+#====================Iteration 125====================#
+        Number of pertubed atoms: 4
+        Relaxation took  12.89 s
+        Best energy: -1931.89 eV
+        Cand. energy: -1911.40 eV
+#====================Iteration 126====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.34 s
+        Best energy: -1931.94 eV
+        Cand. energy: -1931.94 eV
+#====================Iteration 127====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.60 s
+        Best energy: -1931.94 eV
+        Cand. energy: -1930.00 eV
+#====================Iteration 128====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.79 s
+        Best energy: -1931.94 eV
+        Cand. energy: -1929.67 eV
+#====================Iteration 129====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.43 s
+        Best energy: -1931.94 eV
+        Cand. energy: -1926.27 eV
+#====================Iteration 130====================#
+        Number of pertubed atoms: 9
+        Relaxation took   9.55 s
+        Best energy: -1931.94 eV
+        Cand. energy: -1923.70 eV
+#====================Iteration 131====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.78 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1931.95 eV
+#====================Iteration 132====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.65 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1925.17 eV
+#====================Iteration 133====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.83 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1929.12 eV
+#====================Iteration 134====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.99 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1924.45 eV
+#====================Iteration 135====================#
+        Number of pertubed atoms: 1
+        Relaxation took   3.87 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1921.17 eV
+#====================Iteration 136====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.60 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1924.69 eV
+#====================Iteration 137====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.07 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1929.02 eV
+#====================Iteration 138====================#
+        Number of pertubed atoms: 2
+        Relaxation took  15.50 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1923.48 eV
+#====================Iteration 139====================#
+        Number of pertubed atoms: 2
+        Relaxation took  11.95 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1917.50 eV
+#====================Iteration 140====================#
+        Number of pertubed atoms: 4
+        Relaxation took  12.74 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1928.11 eV
+#====================Iteration 141====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.31 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1930.83 eV
+#====================Iteration 142====================#
+        Number of pertubed atoms: 2
+        Relaxation took   6.49 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1921.97 eV
+#====================Iteration 143====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.42 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1927.87 eV
+#====================Iteration 144====================#
+        Number of pertubed atoms: 4
+        Relaxation took  14.53 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1925.65 eV
+#====================Iteration 145====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.01 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1923.61 eV
+#====================Iteration 146====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.29 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1914.35 eV
+#====================Iteration 147====================#
+        Number of pertubed atoms: 7
+        Relaxation took  27.87 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1921.48 eV
+#====================Iteration 148====================#
+        Number of pertubed atoms: 6
+        Relaxation took   7.69 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1921.07 eV
+#====================Iteration 149====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.24 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1930.71 eV
+#====================Iteration 150====================#
+        Number of pertubed atoms: 5
+        Relaxation took  17.40 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1916.09 eV
+#====================Iteration 151====================#
+        Number of pertubed atoms: 6
+        Relaxation took  20.43 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1922.75 eV
+#====================Iteration 152====================#
+        Number of pertubed atoms: 3
+        Relaxation took  11.72 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1916.94 eV
+#====================Iteration 153====================#
+        Number of pertubed atoms: 2
+        Relaxation took  12.42 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1917.85 eV
+#====================Iteration 154====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.36 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1929.97 eV
+#====================Iteration 155====================#
+        Number of pertubed atoms: 3
+        Relaxation took  19.21 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1921.20 eV
+#====================Iteration 156====================#
+        Number of pertubed atoms: 2
+        Relaxation took   3.64 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1914.45 eV
+#====================Iteration 157====================#
+        Number of pertubed atoms: 2
+        Relaxation took  17.54 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1930.34 eV
+#====================Iteration 158====================#
+        Number of pertubed atoms: 1
+        Relaxation took  15.07 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1929.73 eV
+#====================Iteration 159====================#
+        Number of pertubed atoms: 2
+        Relaxation took  14.54 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1918.88 eV
+#====================Iteration 160====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.93 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1926.56 eV
+#====================Iteration 161====================#
+        Number of pertubed atoms: 2
+        Relaxation took  11.56 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1927.78 eV
+#====================Iteration 162====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.35 s
+        Best energy: -1931.95 eV
+        Cand. energy: -1926.87 eV
+#====================Iteration 163====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.42 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.96 eV
+#====================Iteration 164====================#
+        Number of pertubed atoms: 4
+        Relaxation took  14.80 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.74 eV
+#====================Iteration 165====================#
+        Number of pertubed atoms: 2
+        Relaxation took  19.37 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1922.32 eV
+#====================Iteration 166====================#
+        Number of pertubed atoms: 2
+        Relaxation took   9.55 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.89 eV
+#====================Iteration 167====================#
+        Number of pertubed atoms: 3
+        Relaxation took  17.10 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1927.99 eV
+#====================Iteration 168====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.11 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.96 eV
+#====================Iteration 169====================#
+        Number of pertubed atoms: 1
+        Relaxation took  18.92 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.21 eV
+#====================Iteration 170====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.51 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.89 eV
+#====================Iteration 171====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.44 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1926.48 eV
+#====================Iteration 172====================#
+        Number of pertubed atoms: 4
+        Relaxation took  14.10 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1927.44 eV
+#====================Iteration 173====================#
+        Number of pertubed atoms: 3
+        Relaxation took  32.44 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.47 eV
+#====================Iteration 174====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.04 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1920.56 eV
+#====================Iteration 175====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.74 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.10 eV
+#====================Iteration 176====================#
+        Number of pertubed atoms: 6
+        Relaxation took  18.97 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1912.72 eV
+#====================Iteration 177====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.06 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.11 eV
+#====================Iteration 178====================#
+        Number of pertubed atoms: 3
+        Relaxation took  21.24 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.25 eV
+#====================Iteration 179====================#
+        Number of pertubed atoms: 3
+        Relaxation took  11.55 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1914.89 eV
+#====================Iteration 180====================#
+        Number of pertubed atoms: 2
+        Relaxation took  10.05 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1922.60 eV
+#====================Iteration 181====================#
+        Number of pertubed atoms: 3
+        Relaxation took  14.33 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1921.60 eV
+#====================Iteration 182====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.50 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1930.51 eV
+#====================Iteration 183====================#
+        Number of pertubed atoms: 2
+        Relaxation took  12.68 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1930.42 eV
+#====================Iteration 184====================#
+        Number of pertubed atoms: 4
+        Relaxation took  12.91 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1916.27 eV
+#====================Iteration 185====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.83 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1916.84 eV
+#====================Iteration 186====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.89 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1928.48 eV
+#====================Iteration 187====================#
+        Number of pertubed atoms: 7
+        Relaxation took  14.12 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1917.02 eV
+#====================Iteration 188====================#
+        Number of pertubed atoms: 1
+        Relaxation took  13.91 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.22 eV
+#====================Iteration 189====================#
+        Number of pertubed atoms: 1
+        Relaxation took  15.48 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1927.45 eV
+#====================Iteration 190====================#
+        Number of pertubed atoms: 1
+        Relaxation took  14.50 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1930.46 eV
+#====================Iteration 191====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.05 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1921.21 eV
+#====================Iteration 192====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.08 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.24 eV
+#====================Iteration 193====================#
+        Number of pertubed atoms: 2
+        Relaxation took  11.94 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.01 eV
+#====================Iteration 194====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.55 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1930.02 eV
+#====================Iteration 195====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.53 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1926.54 eV
+#====================Iteration 196====================#
+        Number of pertubed atoms: 4
+        Relaxation took  11.21 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1921.13 eV
+#====================Iteration 197====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.98 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.63 eV
+#====================Iteration 198====================#
+        Number of pertubed atoms: 2
+        Relaxation took  18.53 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1930.74 eV
+#====================Iteration 199====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.52 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1928.12 eV
+#====================Iteration 200====================#
+        Number of pertubed atoms: 1
+        Relaxation took  13.82 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1925.32 eV
+#====================Iteration 201====================#
+        Number of pertubed atoms: 4
+        Relaxation took   7.12 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1914.43 eV
+#====================Iteration 202====================#
+        Number of pertubed atoms: 1
+        Relaxation took   3.88 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1922.78 eV
+#====================Iteration 203====================#
+        Number of pertubed atoms: 2
+        Relaxation took   6.78 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1926.50 eV
+#====================Iteration 204====================#
+        Number of pertubed atoms: 2
+        Relaxation took  16.51 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.63 eV
+#====================Iteration 205====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.22 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1925.44 eV
+#====================Iteration 206====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.91 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.68 eV
+#====================Iteration 207====================#
+        Number of pertubed atoms: 2
+        Relaxation took   6.62 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1921.25 eV
+#====================Iteration 208====================#
+        Number of pertubed atoms: 3
+        Relaxation took  10.14 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1916.55 eV
+#====================Iteration 209====================#
+        Number of pertubed atoms: 5
+        Relaxation took  12.40 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.64 eV
+#====================Iteration 210====================#
+        Number of pertubed atoms: 2
+        Relaxation took  11.68 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1917.79 eV
+#====================Iteration 211====================#
+        Number of pertubed atoms: 3
+        Relaxation took   7.53 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.54 eV
+#====================Iteration 212====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.08 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.50 eV
+#====================Iteration 213====================#
+        Number of pertubed atoms: 3
+        Relaxation took  26.17 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.55 eV
+#====================Iteration 214====================#
+        Number of pertubed atoms: 3
+        Relaxation took  10.72 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1922.89 eV
+#====================Iteration 215====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.86 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.47 eV
+#====================Iteration 216====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.49 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1928.42 eV
+#====================Iteration 217====================#
+        Number of pertubed atoms: 3
+        Relaxation took  13.30 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1927.89 eV
+#====================Iteration 218====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.52 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.94 eV
+#====================Iteration 219====================#
+        Number of pertubed atoms: 2
+        Relaxation took  12.10 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.85 eV
+#====================Iteration 220====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.91 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.86 eV
+#====================Iteration 221====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.83 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.66 eV
+#====================Iteration 222====================#
+        Number of pertubed atoms: 3
+        Relaxation took  14.86 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1921.98 eV
+#====================Iteration 223====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.43 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1928.16 eV
+#====================Iteration 224====================#
+        Number of pertubed atoms: 4
+        Relaxation took  18.71 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1918.94 eV
+#====================Iteration 225====================#
+        Number of pertubed atoms: 1
+        Relaxation took  13.31 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.25 eV
+#====================Iteration 226====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.11 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.60 eV
+#====================Iteration 227====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.80 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1920.94 eV
+#====================Iteration 228====================#
+        Number of pertubed atoms: 4
+        Relaxation took  20.73 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1926.88 eV
+#====================Iteration 229====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.69 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.01 eV
+#====================Iteration 230====================#
+        Number of pertubed atoms: 1
+        Relaxation took   1.89 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1926.58 eV
+#====================Iteration 231====================#
+        Number of pertubed atoms: 4
+        Relaxation took  15.56 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1915.37 eV
+#====================Iteration 232====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.22 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.01 eV
+#====================Iteration 233====================#
+        Number of pertubed atoms: 2
+        Relaxation took  10.54 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1915.73 eV
+#====================Iteration 234====================#
+        Number of pertubed atoms: 1
+        Relaxation took   3.31 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.40 eV
+#====================Iteration 235====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.17 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.60 eV
+#====================Iteration 236====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.00 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1925.45 eV
+#====================Iteration 237====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.31 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.17 eV
+#====================Iteration 238====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.66 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.61 eV
+#====================Iteration 239====================#
+        Number of pertubed atoms: 4
+        Relaxation took  19.91 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1920.61 eV
+#====================Iteration 240====================#
+        Number of pertubed atoms: 4
+        Relaxation took   6.84 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1911.12 eV
+#====================Iteration 241====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.48 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1928.65 eV
+#====================Iteration 242====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.29 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1930.29 eV
+#====================Iteration 243====================#
+        Number of pertubed atoms: 1
+        Relaxation took   2.66 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1926.61 eV
+#====================Iteration 244====================#
+        Number of pertubed atoms: 1
+        Relaxation took   3.29 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.40 eV
+#====================Iteration 245====================#
+        Number of pertubed atoms: 2
+        Relaxation took  17.96 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.35 eV
+#====================Iteration 246====================#
+        Number of pertubed atoms: 2
+        Relaxation took  11.55 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1925.60 eV
+#====================Iteration 247====================#
+        Number of pertubed atoms: 4
+        Relaxation took  13.34 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1930.75 eV
+#====================Iteration 248====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.73 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1925.08 eV
+#====================Iteration 249====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.76 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.22 eV
+#====================Iteration 250====================#
+        Number of pertubed atoms: 2
+        Relaxation took  12.19 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1921.53 eV
+#====================Iteration 251====================#
+        Number of pertubed atoms: 12
+        Relaxation took  10.42 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1915.31 eV
+#====================Iteration 252====================#
+        Number of pertubed atoms: 2
+        Relaxation took   9.89 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1921.40 eV
+#====================Iteration 253====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.82 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1920.93 eV
+#====================Iteration 254====================#
+        Number of pertubed atoms: 2
+        Relaxation took  15.45 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1928.93 eV
+#====================Iteration 255====================#
+        Number of pertubed atoms: 2
+        Relaxation took  10.24 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.44 eV
+#====================Iteration 256====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.12 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1927.77 eV
+#====================Iteration 257====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.66 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.69 eV
+#====================Iteration 258====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.13 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.38 eV
+#====================Iteration 259====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.96 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.43 eV
+#====================Iteration 260====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.85 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.47 eV
+#====================Iteration 261====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.32 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.68 eV
+#====================Iteration 262====================#
+        Number of pertubed atoms: 1
+        Relaxation took  14.48 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.60 eV
+#====================Iteration 263====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.97 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.89 eV
+#====================Iteration 264====================#
+        Number of pertubed atoms: 2
+        Relaxation took  13.73 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1928.41 eV
+#====================Iteration 265====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.71 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.02 eV
+#====================Iteration 266====================#
+        Number of pertubed atoms: 2
+        Relaxation took   5.57 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1917.58 eV
+#====================Iteration 267====================#
+        Number of pertubed atoms: 3
+        Relaxation took   7.91 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1909.47 eV
+#====================Iteration 268====================#
+        Number of pertubed atoms: 1
+        Relaxation took  12.26 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1928.47 eV
+#====================Iteration 269====================#
+        Number of pertubed atoms: 3
+        Relaxation took  12.08 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.88 eV
+#====================Iteration 270====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.19 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.88 eV
+#====================Iteration 271====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.95 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.94 eV
+#====================Iteration 272====================#
+        Number of pertubed atoms: 2
+        Relaxation took   9.14 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1921.85 eV
+#====================Iteration 273====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.05 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.22 eV
+#====================Iteration 274====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.28 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1926.78 eV
+#====================Iteration 275====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.83 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1928.40 eV
+#====================Iteration 276====================#
+        Number of pertubed atoms: 4
+        Relaxation took  10.54 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1928.26 eV
+#====================Iteration 277====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.20 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1920.48 eV
+#====================Iteration 278====================#
+        Number of pertubed atoms: 2
+        Relaxation took  10.07 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.23 eV
+#====================Iteration 279====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.21 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1930.29 eV
+#====================Iteration 280====================#
+        Number of pertubed atoms: 2
+        Relaxation took  12.93 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1917.20 eV
+#====================Iteration 281====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.41 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.31 eV
+#====================Iteration 282====================#
+        Number of pertubed atoms: 2
+        Relaxation took  11.60 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1919.89 eV
+#====================Iteration 283====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.47 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1926.71 eV
+#====================Iteration 284====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.32 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.92 eV
+#====================Iteration 285====================#
+        Number of pertubed atoms: 6
+        Relaxation took  36.05 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1914.95 eV
+#====================Iteration 286====================#
+        Number of pertubed atoms: 5
+        Relaxation took  11.19 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1926.38 eV
+#====================Iteration 287====================#
+        Number of pertubed atoms: 3
+        Relaxation took   8.18 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1919.57 eV
+#====================Iteration 288====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.91 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.41 eV
+#====================Iteration 289====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.62 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.84 eV
+#====================Iteration 290====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.86 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1926.21 eV
+#====================Iteration 291====================#
+        Number of pertubed atoms: 1
+        Relaxation took   3.92 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1920.55 eV
+#====================Iteration 292====================#
+        Number of pertubed atoms: 1
+        Relaxation took   1.50 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1926.53 eV
+#====================Iteration 293====================#
+        Number of pertubed atoms: 3
+        Relaxation took  15.39 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1926.77 eV
+#====================Iteration 294====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.11 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1919.60 eV
+#====================Iteration 295====================#
+        Number of pertubed atoms: 1
+        Relaxation took  16.98 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1927.85 eV
+#====================Iteration 296====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.33 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1926.73 eV
+#====================Iteration 297====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.70 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.35 eV
+#====================Iteration 298====================#
+        Number of pertubed atoms: 4
+        Relaxation took  13.39 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1922.20 eV
+#====================Iteration 299====================#
+        Number of pertubed atoms: 3
+        Relaxation took   8.95 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1916.82 eV
+#====================Iteration 300====================#
+        Number of pertubed atoms: 2
+        Relaxation took  25.03 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.41 eV
+#====================Iteration 301====================#
+        Number of pertubed atoms: 4
+        Relaxation took  11.71 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1919.65 eV
+#====================Iteration 302====================#
+        Number of pertubed atoms: 2
+        Relaxation took  11.81 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1930.16 eV
+#====================Iteration 303====================#
+        Number of pertubed atoms: 3
+        Relaxation took  12.03 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1921.17 eV
+#====================Iteration 304====================#
+        Number of pertubed atoms: 2
+        Relaxation took  27.60 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.49 eV
+#====================Iteration 305====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.26 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1930.14 eV
+#====================Iteration 306====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.23 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.00 eV
+#====================Iteration 307====================#
+        Number of pertubed atoms: 2
+        Relaxation took   6.88 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.08 eV
+#====================Iteration 308====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.36 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.35 eV
+#====================Iteration 309====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.61 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1927.53 eV
+#====================Iteration 310====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.83 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.89 eV
+#====================Iteration 311====================#
+        Number of pertubed atoms: 3
+        Relaxation took  10.80 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1926.31 eV
+#====================Iteration 312====================#
+        Number of pertubed atoms: 2
+        Relaxation took  10.75 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.30 eV
+#====================Iteration 313====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.16 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.68 eV
+#====================Iteration 314====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.68 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.21 eV
+#====================Iteration 315====================#
+        Number of pertubed atoms: 2
+        Relaxation took   5.47 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1928.77 eV
+#====================Iteration 316====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.20 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1922.99 eV
+#====================Iteration 317====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.19 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.93 eV
+#====================Iteration 318====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.27 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.96 eV
+#====================Iteration 319====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.77 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.03 eV
+#====================Iteration 320====================#
+        Number of pertubed atoms: 3
+        Relaxation took  23.78 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1915.98 eV
+#====================Iteration 321====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.11 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.52 eV
+#====================Iteration 322====================#
+        Number of pertubed atoms: 2
+        Relaxation took  12.39 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1927.47 eV
+#====================Iteration 323====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.40 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.51 eV
+#====================Iteration 324====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.37 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1927.72 eV
+#====================Iteration 325====================#
+        Number of pertubed atoms: 3
+        Relaxation took  11.22 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1916.03 eV
+#====================Iteration 326====================#
+        Number of pertubed atoms: 3
+        Relaxation took  10.61 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1926.29 eV
+#====================Iteration 327====================#
+        Number of pertubed atoms: 4
+        Relaxation took   9.34 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1918.64 eV
+#====================Iteration 328====================#
+        Number of pertubed atoms: 1
+        Relaxation took   3.31 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1926.59 eV
+#====================Iteration 329====================#
+        Number of pertubed atoms: 2
+        Relaxation took  12.32 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1916.95 eV
+#====================Iteration 330====================#
+        Number of pertubed atoms: 4
+        Relaxation took  19.97 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1925.29 eV
+#====================Iteration 331====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.62 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1922.99 eV
+#====================Iteration 332====================#
+        Number of pertubed atoms: 1
+        Relaxation took  33.72 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.13 eV
+#====================Iteration 333====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.02 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1928.86 eV
+#====================Iteration 334====================#
+        Number of pertubed atoms: 2
+        Relaxation took  11.66 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.74 eV
+#====================Iteration 335====================#
+        Number of pertubed atoms: 3
+        Relaxation took  12.06 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.75 eV
+#====================Iteration 336====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.73 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.61 eV
+#====================Iteration 337====================#
+        Number of pertubed atoms: 2
+        Relaxation took  10.72 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.27 eV
+#====================Iteration 338====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.31 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1927.47 eV
+#====================Iteration 339====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.43 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.01 eV
+#====================Iteration 340====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.03 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.68 eV
+#====================Iteration 341====================#
+        Number of pertubed atoms: 2
+        Relaxation took   9.83 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.47 eV
+#====================Iteration 342====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.86 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.01 eV
+#====================Iteration 343====================#
+        Number of pertubed atoms: 2
+        Relaxation took  16.23 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1922.69 eV
+#====================Iteration 344====================#
+        Number of pertubed atoms: 1
+        Relaxation took  12.63 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.42 eV
+#====================Iteration 345====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.27 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.37 eV
+#====================Iteration 346====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.41 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1925.27 eV
+#====================Iteration 347====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.90 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.96 eV
+#====================Iteration 348====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.26 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.68 eV
+#====================Iteration 349====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.37 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1928.25 eV
+#====================Iteration 350====================#
+        Number of pertubed atoms: 1
+        Relaxation took  13.03 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1930.77 eV
+#====================Iteration 351====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.31 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.96 eV
+#====================Iteration 352====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.82 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.79 eV
+#====================Iteration 353====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.76 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.22 eV
+#====================Iteration 354====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.11 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1923.44 eV
+#====================Iteration 355====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.73 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1928.75 eV
+#====================Iteration 356====================#
+        Number of pertubed atoms: 2
+        Relaxation took  17.36 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.81 eV
+#====================Iteration 357====================#
+        Number of pertubed atoms: 8
+        Relaxation took  30.94 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1918.50 eV
+#====================Iteration 358====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.68 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.53 eV
+#====================Iteration 359====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.43 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.01 eV
+#====================Iteration 360====================#
+        Number of pertubed atoms: 2
+        Relaxation took   5.92 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1920.73 eV
+#====================Iteration 361====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.93 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1922.72 eV
+#====================Iteration 362====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.26 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1928.29 eV
+#====================Iteration 363====================#
+        Number of pertubed atoms: 2
+        Relaxation took  11.03 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1916.70 eV
+#====================Iteration 364====================#
+        Number of pertubed atoms: 2
+        Relaxation took  13.82 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1927.91 eV
+#====================Iteration 365====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.94 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1930.37 eV
+#====================Iteration 366====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.59 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1920.93 eV
+#====================Iteration 367====================#
+        Number of pertubed atoms: 4
+        Relaxation took   8.54 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1914.27 eV
+#====================Iteration 368====================#
+        Number of pertubed atoms: 2
+        Relaxation took  10.27 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1928.88 eV
+#====================Iteration 369====================#
+        Number of pertubed atoms: 1
+        Relaxation took   3.65 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.96 eV
+#====================Iteration 370====================#
+        Number of pertubed atoms: 3
+        Relaxation took  28.56 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.25 eV
+#====================Iteration 371====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.33 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1920.55 eV
+#====================Iteration 372====================#
+        Number of pertubed atoms: 5
+        Relaxation took   8.85 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.21 eV
+#====================Iteration 373====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.37 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1925.60 eV
+#====================Iteration 374====================#
+        Number of pertubed atoms: 3
+        Relaxation took   6.72 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1915.30 eV
+#====================Iteration 375====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.04 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1929.68 eV
+#====================Iteration 376====================#
+        Number of pertubed atoms: 6
+        Relaxation took  16.97 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1919.63 eV
+#====================Iteration 377====================#
+        Number of pertubed atoms: 3
+        Relaxation took   8.75 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1915.51 eV
+#====================Iteration 378====================#
+        Number of pertubed atoms: 1
+        Relaxation took  16.53 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1931.85 eV
+#====================Iteration 379====================#
+        Number of pertubed atoms: 4
+        Relaxation took  11.46 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1915.21 eV
+#====================Iteration 380====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.84 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1925.04 eV
+#====================Iteration 381====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.35 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1921.21 eV
+#====================Iteration 382====================#
+        Number of pertubed atoms: 3
+        Relaxation took  11.12 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1924.48 eV
+#====================Iteration 383====================#
+        Number of pertubed atoms: 1
+        Relaxation took  18.66 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1930.32 eV
+#====================Iteration 384====================#
+        Number of pertubed atoms: 2
+        Relaxation took  14.02 s
+        Best energy: -1931.96 eV
+        Cand. energy: -1927.77 eV
+#====================Iteration 385====================#
+        Number of pertubed atoms: 1
+        Relaxation took  16.85 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1932.66 eV
+#====================Iteration 386====================#
+        Number of pertubed atoms: 3
+        Relaxation took  19.93 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1924.21 eV
+#====================Iteration 387====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.14 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1925.62 eV
+#====================Iteration 388====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.37 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1932.66 eV
+#====================Iteration 389====================#
+        Number of pertubed atoms: 2
+        Relaxation took  11.97 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1921.39 eV
+#====================Iteration 390====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.84 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1929.32 eV
+#====================Iteration 391====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.03 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1924.07 eV
+#====================Iteration 392====================#
+        Number of pertubed atoms: 3
+        Relaxation took   9.27 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1928.21 eV
+#====================Iteration 393====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.14 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1925.85 eV
+#====================Iteration 394====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.09 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1925.59 eV
+#====================Iteration 395====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.66 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1924.83 eV
+#====================Iteration 396====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.58 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1928.34 eV
+#====================Iteration 397====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.43 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1917.66 eV
+#====================Iteration 398====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.07 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1925.81 eV
+#====================Iteration 399====================#
+        Number of pertubed atoms: 2
+        Relaxation took  15.14 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1931.85 eV
+#====================Iteration 400====================#
+        Number of pertubed atoms: 2
+        Relaxation took  19.82 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1924.33 eV
+#====================Iteration 401====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.55 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1930.51 eV
+#====================Iteration 402====================#
+        Number of pertubed atoms: 2
+        Relaxation took  10.61 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1930.25 eV
+#====================Iteration 403====================#
+        Number of pertubed atoms: 2
+        Relaxation took   6.70 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1924.71 eV
+#====================Iteration 404====================#
+        Number of pertubed atoms: 2
+        Relaxation took  17.49 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1925.08 eV
+#====================Iteration 405====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.28 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1923.49 eV
+#====================Iteration 406====================#
+        Number of pertubed atoms: 2
+        Relaxation took  11.01 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1915.83 eV
+#====================Iteration 407====================#
+        Number of pertubed atoms: 2
+        Relaxation took  18.33 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1919.50 eV
+#====================Iteration 408====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.97 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1923.69 eV
+#====================Iteration 409====================#
+        Number of pertubed atoms: 6
+        Relaxation took  18.79 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1911.83 eV
+#====================Iteration 410====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.16 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1930.29 eV
+#====================Iteration 411====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.11 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1927.09 eV
+#====================Iteration 412====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.42 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1928.61 eV
+#====================Iteration 413====================#
+        Number of pertubed atoms: 5
+        Relaxation took  19.05 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1923.08 eV
+#====================Iteration 414====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.29 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1924.59 eV
+#====================Iteration 415====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.96 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1925.65 eV
+#====================Iteration 416====================#
+        Number of pertubed atoms: 2
+        Relaxation took  10.63 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1922.21 eV
+#====================Iteration 417====================#
+        Number of pertubed atoms: 2
+        Relaxation took  12.04 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1921.74 eV
+#====================Iteration 418====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.77 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1920.42 eV
+#====================Iteration 419====================#
+        Number of pertubed atoms: 3
+        Relaxation took  37.37 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1924.16 eV
+#====================Iteration 420====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.14 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1924.00 eV
+#====================Iteration 421====================#
+        Number of pertubed atoms: 2
+        Relaxation took  14.90 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1928.48 eV
+#====================Iteration 422====================#
+        Number of pertubed atoms: 3
+        Relaxation took   9.63 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1926.61 eV
+#====================Iteration 423====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.62 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1927.05 eV
+#====================Iteration 424====================#
+        Number of pertubed atoms: 3
+        Relaxation took   4.89 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1918.36 eV
+#====================Iteration 425====================#
+        Number of pertubed atoms: 2
+        Relaxation took  10.88 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1928.42 eV
+#====================Iteration 426====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.73 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1925.78 eV
+#====================Iteration 427====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.36 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1925.44 eV
+#====================Iteration 428====================#
+        Number of pertubed atoms: 2
+        Relaxation took   9.66 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1929.02 eV
+#====================Iteration 429====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.21 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1926.97 eV
+#====================Iteration 430====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.87 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1925.78 eV
+#====================Iteration 431====================#
+        Number of pertubed atoms: 1
+        Relaxation took  16.22 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1928.85 eV
+#====================Iteration 432====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.18 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1932.66 eV
+#====================Iteration 433====================#
+        Number of pertubed atoms: 3
+        Relaxation took  20.28 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1927.70 eV
+#====================Iteration 434====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.50 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1932.66 eV
+#====================Iteration 435====================#
+        Number of pertubed atoms: 3
+        Relaxation took  16.69 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1922.56 eV
+#====================Iteration 436====================#
+        Number of pertubed atoms: 5
+        Relaxation took   9.59 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1921.17 eV
+#====================Iteration 437====================#
+        Number of pertubed atoms: 1
+        Relaxation took  14.38 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1931.38 eV
+#====================Iteration 438====================#
+        Number of pertubed atoms: 3
+        Relaxation took  10.51 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1926.49 eV
+#====================Iteration 439====================#
+        Number of pertubed atoms: 2
+        Relaxation took   6.04 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1928.26 eV
+#====================Iteration 440====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.00 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1923.90 eV
+#====================Iteration 441====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.23 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1931.44 eV
+#====================Iteration 442====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.69 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1927.30 eV
+#====================Iteration 443====================#
+        Number of pertubed atoms: 2
+        Relaxation took   9.00 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1927.97 eV
+#====================Iteration 444====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.79 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1925.69 eV
+#====================Iteration 445====================#
+        Number of pertubed atoms: 2
+        Relaxation took   5.76 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1918.09 eV
+#====================Iteration 446====================#
+        Number of pertubed atoms: 2
+        Relaxation took  13.34 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1930.18 eV
+#====================Iteration 447====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.74 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1922.20 eV
+#====================Iteration 448====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.53 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1927.97 eV
+#====================Iteration 449====================#
+        Number of pertubed atoms: 1
+        Relaxation took  21.90 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1928.04 eV
+#====================Iteration 450====================#
+        Number of pertubed atoms: 2
+        Relaxation took  12.17 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1924.63 eV
+#====================Iteration 451====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.86 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1926.14 eV
+#====================Iteration 452====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.84 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1930.00 eV
+#====================Iteration 453====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.85 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1924.47 eV
+#====================Iteration 454====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.63 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1924.83 eV
+#====================Iteration 455====================#
+        Number of pertubed atoms: 2
+        Relaxation took  13.23 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1922.09 eV
+#====================Iteration 456====================#
+        Number of pertubed atoms: 1
+        Relaxation took  16.16 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1930.32 eV
+#====================Iteration 457====================#
+        Number of pertubed atoms: 4
+        Relaxation took  16.30 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1917.49 eV
+#====================Iteration 458====================#
+        Number of pertubed atoms: 3
+        Relaxation took  16.66 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1930.04 eV
+#====================Iteration 459====================#
+        Number of pertubed atoms: 1
+        Relaxation took  14.10 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1925.52 eV
+#====================Iteration 460====================#
+        Number of pertubed atoms: 3
+        Relaxation took  11.79 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1919.26 eV
+#====================Iteration 461====================#
+        Number of pertubed atoms: 4
+        Relaxation took  18.21 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1909.77 eV
+#====================Iteration 462====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.28 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1925.51 eV
+#====================Iteration 463====================#
+        Number of pertubed atoms: 2
+        Relaxation took   6.37 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1922.77 eV
+#====================Iteration 464====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.15 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1925.34 eV
+#====================Iteration 465====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.02 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1930.06 eV
+#====================Iteration 466====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.07 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1922.43 eV
+#====================Iteration 467====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.52 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1922.80 eV
+#====================Iteration 468====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.67 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1925.49 eV
+#====================Iteration 469====================#
+        Number of pertubed atoms: 2
+        Relaxation took  11.12 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1918.09 eV
+#====================Iteration 470====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.90 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1932.66 eV
+#====================Iteration 471====================#
+        Number of pertubed atoms: 6
+        Relaxation took  24.42 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1915.47 eV
+#====================Iteration 472====================#
+        Number of pertubed atoms: 2
+        Relaxation took   9.34 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1926.71 eV
+#====================Iteration 473====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.06 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1928.89 eV
+#====================Iteration 474====================#
+        Number of pertubed atoms: 3
+        Relaxation took  24.46 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1929.55 eV
+#====================Iteration 475====================#
+        Number of pertubed atoms: 2
+        Relaxation took   6.07 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1921.75 eV
+#====================Iteration 476====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.82 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1923.70 eV
+#====================Iteration 477====================#
+        Number of pertubed atoms: 1
+        Relaxation took  16.08 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1928.85 eV
+#====================Iteration 478====================#
+        Number of pertubed atoms: 4
+        Relaxation took  13.50 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1928.52 eV
+#====================Iteration 479====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.43 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1924.68 eV
+#====================Iteration 480====================#
+        Number of pertubed atoms: 2
+        Relaxation took   5.54 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1924.58 eV
+#====================Iteration 481====================#
+        Number of pertubed atoms: 3
+        Relaxation took  20.95 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1924.59 eV
+#====================Iteration 482====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.58 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1932.66 eV
+#====================Iteration 483====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.33 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1931.44 eV
+#====================Iteration 484====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.47 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1926.20 eV
+#====================Iteration 485====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.69 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1923.76 eV
+#====================Iteration 486====================#
+        Number of pertubed atoms: 10
+        Relaxation took  21.96 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1911.76 eV
+#====================Iteration 487====================#
+        Number of pertubed atoms: 2
+        Relaxation took   9.37 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1923.85 eV
+#====================Iteration 488====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.00 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1924.59 eV
+#====================Iteration 489====================#
+        Number of pertubed atoms: 3
+        Relaxation took   7.99 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1923.85 eV
+#====================Iteration 490====================#
+        Number of pertubed atoms: 3
+        Relaxation took  17.44 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1925.98 eV
+#====================Iteration 491====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.91 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1931.43 eV
+#====================Iteration 492====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.13 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1931.58 eV
+#====================Iteration 493====================#
+        Number of pertubed atoms: 2
+        Relaxation took  12.61 s
+        Best energy: -1932.66 eV
+        Cand. energy: -1922.11 eV
+#====================Iteration 494====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.40 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1932.67 eV
+#====================Iteration 495====================#
+        Number of pertubed atoms: 5
+        Relaxation took  20.83 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1924.73 eV
+#====================Iteration 496====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.51 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1925.66 eV
+#====================Iteration 497====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.93 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1929.32 eV
+#====================Iteration 498====================#
+        Number of pertubed atoms: 3
+        Relaxation took  16.87 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1927.80 eV
+#====================Iteration 499====================#
+        Number of pertubed atoms: 3
+        Relaxation took   9.53 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1917.84 eV
+#====================Iteration 500====================#
+        Number of pertubed atoms: 2
+        Relaxation took   5.88 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1928.17 eV
+#====================Iteration 501====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.67 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1930.30 eV
+#====================Iteration 502====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.97 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1928.38 eV
+#====================Iteration 503====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.81 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1923.08 eV
+#====================Iteration 504====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.42 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1925.65 eV
+#====================Iteration 505====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.30 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1932.66 eV
+#====================Iteration 506====================#
+        Number of pertubed atoms: 1
+        Relaxation took  12.92 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1928.90 eV
+#====================Iteration 507====================#
+        Number of pertubed atoms: 2
+        Relaxation took  10.03 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1928.46 eV
+#====================Iteration 508====================#
+        Number of pertubed atoms: 4
+        Relaxation took  11.63 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1921.83 eV
+#====================Iteration 509====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.54 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1926.25 eV
+#====================Iteration 510====================#
+        Number of pertubed atoms: 2
+        Relaxation took  10.11 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1928.34 eV
+#====================Iteration 511====================#
+        Number of pertubed atoms: 1
+        Relaxation took  20.58 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1931.37 eV
+#====================Iteration 512====================#
+        Number of pertubed atoms: 1
+        Relaxation took  13.06 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1932.61 eV
+#====================Iteration 513====================#
+        Number of pertubed atoms: 2
+        Relaxation took  11.03 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1932.51 eV
+#====================Iteration 514====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.28 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1928.10 eV
+#====================Iteration 515====================#
+        Number of pertubed atoms: 4
+        Relaxation took  20.23 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1917.79 eV
+#====================Iteration 516====================#
+        Number of pertubed atoms: 3
+        Relaxation took  10.56 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1914.72 eV
+#====================Iteration 517====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.23 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1923.98 eV
+#====================Iteration 518====================#
+        Number of pertubed atoms: 4
+        Relaxation took  10.95 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1923.99 eV
+#====================Iteration 519====================#
+        Number of pertubed atoms: 5
+        Relaxation took   8.23 s
+        Best energy: -1932.67 eV
+        Cand. energy: -1927.47 eV
+#====================Iteration 520====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.46 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1932.68 eV
+#====================Iteration 521====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.71 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1924.83 eV
+#====================Iteration 522====================#
+        Number of pertubed atoms: 2
+        Relaxation took   6.01 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1915.88 eV
+#====================Iteration 523====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.07 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1926.33 eV
+#====================Iteration 524====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.09 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1925.15 eV
+#====================Iteration 525====================#
+        Number of pertubed atoms: 4
+        Relaxation took  11.41 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1925.12 eV
+#====================Iteration 526====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.96 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1924.79 eV
+#====================Iteration 527====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.73 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1929.62 eV
+#====================Iteration 528====================#
+        Number of pertubed atoms: 3
+        Relaxation took  16.25 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1923.56 eV
+#====================Iteration 529====================#
+        Number of pertubed atoms: 2
+        Relaxation took   4.74 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1925.15 eV
+#====================Iteration 530====================#
+        Number of pertubed atoms: 2
+        Relaxation took  11.26 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1929.45 eV
+#====================Iteration 531====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.18 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1924.86 eV
+#====================Iteration 532====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.02 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1923.95 eV
+#====================Iteration 533====================#
+        Number of pertubed atoms: 3
+        Relaxation took  13.39 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1920.18 eV
+#====================Iteration 534====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.90 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1929.35 eV
+#====================Iteration 535====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.69 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1932.68 eV
+#====================Iteration 536====================#
+        Number of pertubed atoms: 2
+        Relaxation took   6.04 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1923.28 eV
+#====================Iteration 537====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.88 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1924.75 eV
+#====================Iteration 538====================#
+        Number of pertubed atoms: 3
+        Relaxation took  13.90 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1924.23 eV
+#====================Iteration 539====================#
+        Number of pertubed atoms: 4
+        Relaxation took   8.92 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1919.46 eV
+#====================Iteration 540====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.14 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1921.75 eV
+#====================Iteration 541====================#
+        Number of pertubed atoms: 1
+        Relaxation took  16.55 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1928.37 eV
+#====================Iteration 542====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.47 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1931.44 eV
+#====================Iteration 543====================#
+        Number of pertubed atoms: 3
+        Relaxation took  12.18 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1920.62 eV
+#====================Iteration 544====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.77 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1932.65 eV
+#====================Iteration 545====================#
+        Number of pertubed atoms: 5
+        Relaxation took  11.82 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1919.80 eV
+#====================Iteration 546====================#
+        Number of pertubed atoms: 3
+        Relaxation took  17.69 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1918.94 eV
+#====================Iteration 547====================#
+        Number of pertubed atoms: 2
+        Relaxation took  19.49 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1920.04 eV
+#====================Iteration 548====================#
+        Number of pertubed atoms: 2
+        Relaxation took  27.16 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1924.06 eV
+#====================Iteration 549====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.67 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1927.44 eV
+#====================Iteration 550====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.73 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1925.34 eV
+#====================Iteration 551====================#
+        Number of pertubed atoms: 2
+        Relaxation took  13.83 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1924.35 eV
+#====================Iteration 552====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.38 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1926.09 eV
+#====================Iteration 553====================#
+        Number of pertubed atoms: 2
+        Relaxation took  10.17 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1924.95 eV
+#====================Iteration 554====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.01 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1930.74 eV
+#====================Iteration 555====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.52 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1932.68 eV
+#====================Iteration 556====================#
+        Number of pertubed atoms: 1
+        Relaxation took   3.54 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1927.33 eV
+#====================Iteration 557====================#
+        Number of pertubed atoms: 2
+        Relaxation took  14.71 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1930.04 eV
+#====================Iteration 558====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.57 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1930.35 eV
+#====================Iteration 559====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.41 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1928.19 eV
+#====================Iteration 560====================#
+        Number of pertubed atoms: 2
+        Relaxation took   9.78 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1927.81 eV
+#====================Iteration 561====================#
+        Number of pertubed atoms: 2
+        Relaxation took  16.20 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1920.53 eV
+#====================Iteration 562====================#
+        Number of pertubed atoms: 1
+        Relaxation took  13.14 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1930.57 eV
+#====================Iteration 563====================#
+        Number of pertubed atoms: 3
+        Relaxation took  15.56 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1921.66 eV
+#====================Iteration 564====================#
+        Number of pertubed atoms: 3
+        Relaxation took  21.34 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1920.25 eV
+#====================Iteration 565====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.68 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1921.76 eV
+#====================Iteration 566====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.15 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1928.36 eV
+#====================Iteration 567====================#
+        Number of pertubed atoms: 3
+        Relaxation took  12.89 s
+        Best energy: -1932.68 eV
+        Cand. energy: -1927.34 eV
+#====================Iteration 568====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.42 s
+        Best energy: -1932.70 eV
+        Cand. energy: -1932.70 eV
+#====================Iteration 569====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.48 s
+        Best energy: -1932.70 eV
+        Cand. energy: -1930.17 eV
+#====================Iteration 570====================#
+        Number of pertubed atoms: 3
+        Relaxation took   7.58 s
+        Best energy: -1932.70 eV
+        Cand. energy: -1927.87 eV
+#====================Iteration 571====================#
+        Number of pertubed atoms: 2
+        Relaxation took   4.93 s
+        Best energy: -1932.70 eV
+        Cand. energy: -1923.86 eV
+#====================Iteration 572====================#
+        Number of pertubed atoms: 1
+        Relaxation took  14.24 s
+        Best energy: -1932.70 eV
+        Cand. energy: -1932.70 eV
+#====================Iteration 573====================#
+        Number of pertubed atoms: 3
+        Relaxation took  15.63 s
+        Best energy: -1932.70 eV
+        Cand. energy: -1923.21 eV
+#====================Iteration 574====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.63 s
+        Best energy: -1932.70 eV
+        Cand. energy: -1924.83 eV
+#====================Iteration 575====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.23 s
+        Best energy: -1932.70 eV
+        Cand. energy: -1916.18 eV
+#====================Iteration 576====================#
+        Number of pertubed atoms: 1
+        Relaxation took   3.81 s
+        Best energy: -1932.70 eV
+        Cand. energy: -1930.13 eV
+#====================Iteration 577====================#
+        Number of pertubed atoms: 2
+        Relaxation took  10.48 s
+        Best energy: -1932.70 eV
+        Cand. energy: -1927.27 eV
+#====================Iteration 578====================#
+        Number of pertubed atoms: 2
+        Relaxation took  16.87 s
+        Best energy: -1932.70 eV
+        Cand. energy: -1925.97 eV
+#====================Iteration 579====================#
+        Number of pertubed atoms: 1
+        Relaxation took  16.46 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1932.84 eV
+#====================Iteration 580====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.87 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1923.14 eV
+#====================Iteration 581====================#
+        Number of pertubed atoms: 1
+        Relaxation took  14.41 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1931.31 eV
+#====================Iteration 582====================#
+        Number of pertubed atoms: 3
+        Relaxation took  20.77 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1928.24 eV
+#====================Iteration 583====================#
+        Number of pertubed atoms: 3
+        Relaxation took   7.39 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1923.81 eV
+#====================Iteration 584====================#
+        Number of pertubed atoms: 2
+        Relaxation took  17.42 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1918.02 eV
+#====================Iteration 585====================#
+        Number of pertubed atoms: 3
+        Relaxation took  15.95 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1914.15 eV
+#====================Iteration 586====================#
+        Number of pertubed atoms: 2
+        Relaxation took  14.84 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1929.40 eV
+#====================Iteration 587====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.29 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1923.27 eV
+#====================Iteration 588====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.18 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1932.83 eV
+#====================Iteration 589====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.08 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1925.15 eV
+#====================Iteration 590====================#
+        Number of pertubed atoms: 1
+        Relaxation took  10.85 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1924.88 eV
+#====================Iteration 591====================#
+        Number of pertubed atoms: 1
+        Relaxation took  20.58 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1930.09 eV
+#====================Iteration 592====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.47 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1931.20 eV
+#====================Iteration 593====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.16 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1925.06 eV
+#====================Iteration 594====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.04 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1922.34 eV
+#====================Iteration 595====================#
+        Number of pertubed atoms: 1
+        Relaxation took  16.26 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1930.69 eV
+#====================Iteration 596====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.58 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1929.95 eV
+#====================Iteration 597====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.67 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1925.56 eV
+#====================Iteration 598====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.80 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1932.70 eV
+#====================Iteration 599====================#
+        Number of pertubed atoms: 5
+        Relaxation took  12.27 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1915.86 eV
+#====================Iteration 600====================#
+        Number of pertubed atoms: 1
+        Relaxation took  15.25 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1929.01 eV
+#====================Iteration 601====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.00 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1924.05 eV
+#====================Iteration 602====================#
+        Number of pertubed atoms: 2
+        Relaxation took   7.47 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1917.79 eV
+#====================Iteration 603====================#
+        Number of pertubed atoms: 1
+        Relaxation took  12.40 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1929.00 eV
+#====================Iteration 604====================#
+        Number of pertubed atoms: 2
+        Relaxation took  11.96 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1920.42 eV
+#====================Iteration 605====================#
+        Number of pertubed atoms: 1
+        Relaxation took  17.97 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1931.68 eV
+#====================Iteration 606====================#
+        Number of pertubed atoms: 2
+        Relaxation took  13.38 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1928.49 eV
+#====================Iteration 607====================#
+        Number of pertubed atoms: 3
+        Relaxation took  22.78 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1922.80 eV
+#====================Iteration 608====================#
+        Number of pertubed atoms: 2
+        Relaxation took   9.78 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1924.40 eV
+#====================Iteration 609====================#
+        Number of pertubed atoms: 2
+        Relaxation took  13.66 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1928.95 eV
+#====================Iteration 610====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.54 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1928.92 eV
+#====================Iteration 611====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.34 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1924.84 eV
+#====================Iteration 612====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.40 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1925.81 eV
+#====================Iteration 613====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.22 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1927.27 eV
+#====================Iteration 614====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.71 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1924.66 eV
+#====================Iteration 615====================#
+        Number of pertubed atoms: 2
+        Relaxation took  24.62 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1919.79 eV
+#====================Iteration 616====================#
+        Number of pertubed atoms: 1
+        Relaxation took   8.57 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1926.90 eV
+#====================Iteration 617====================#
+        Number of pertubed atoms: 4
+        Relaxation took   9.41 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1921.29 eV
+#====================Iteration 618====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.44 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1929.46 eV
+#====================Iteration 619====================#
+        Number of pertubed atoms: 2
+        Relaxation took  11.08 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1921.43 eV
+#====================Iteration 620====================#
+        Number of pertubed atoms: 2
+        Relaxation took   8.51 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1921.97 eV
+#====================Iteration 621====================#
+        Number of pertubed atoms: 2
+        Relaxation took  10.42 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1929.91 eV
+#====================Iteration 622====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.34 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1925.94 eV
+#====================Iteration 623====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.97 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1925.53 eV
+#====================Iteration 624====================#
+        Number of pertubed atoms: 1
+        Relaxation took   5.26 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1930.16 eV
+#====================Iteration 625====================#
+        Number of pertubed atoms: 4
+        Relaxation took  12.37 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1924.58 eV
+#====================Iteration 626====================#
+        Number of pertubed atoms: 1
+        Relaxation took   6.21 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1924.67 eV
+#====================Iteration 627====================#
+        Number of pertubed atoms: 4
+        Relaxation took  18.72 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1929.77 eV
+#====================Iteration 628====================#
+        Number of pertubed atoms: 2
+        Relaxation took   9.98 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1921.74 eV
+#====================Iteration 629====================#
+        Number of pertubed atoms: 1
+        Relaxation took  11.99 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1924.17 eV
+#====================Iteration 630====================#
+        Number of pertubed atoms: 1
+        Relaxation took   9.96 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1925.13 eV
+#====================Iteration 631====================#
+        Number of pertubed atoms: 1
+        Relaxation took  14.05 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1932.44 eV
+#====================Iteration 632====================#
+        Number of pertubed atoms: 1
+        Relaxation took  12.97 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1929.45 eV
+#====================Iteration 633====================#
+        Number of pertubed atoms: 1
+        Relaxation took   4.34 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1932.84 eV
+#====================Iteration 634====================#
+        Number of pertubed atoms: 5
+        Relaxation took  20.70 s
+        Best energy: -1932.84 eV
+        Cand. energy: -1913.34 eV
+#====================Iteration 635====================#
+        Number of pertubed atoms: 1
+        Relaxation took   7.85 s
+        Best energy: -1933.47 eV
+        Cand. energy: -1933.47 eV
+Saved some stuff
+cp: cannot stat ‘*.fail’: No such file or directory
+========= Job finished at Thu Sep 13 00:39:23 CEST 2018 ==========
