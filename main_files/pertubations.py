@@ -23,7 +23,6 @@ def fireworks(struct, idx, R):
                         atoms.positions[ii, :] = xyz
                         not_found = False
 
-
 def random_center(struct, idx, R):
     """
     Moves the atoms given by idx to a random position above another atom.
@@ -47,6 +46,21 @@ def random_center(struct, idx, R):
                     if ProximityCheck(atoms, xyz, ii):
                         atoms.positions[ii, :] = xyz
                         not_found = False
+
+def random_position(struct, idx):
+    """
+    Moves the atoms given by idx to random positions within the constraints set by the min/max dimensions of the structure.
+    """
+    atoms = struct.atoms
+    
+    bias = np.array([0, 0, 5])
+    for ii in idx:
+        not_found = True
+        while not_found:
+            xyz = struct.min_dims + np.random.rand(3)*(struct.max_dims-struct.min_dims-bias)
+            if ProximityCheck(atoms, xyz, ii):
+                atoms.positions[ii, :] = xyz
+                not_found = False
                         
 # Helper functions
 def UnitSphereDist(R=1):

@@ -51,11 +51,16 @@ class basin_hopping:
         # Autobag stuff:
         self.use_ML = use_ML
         if self.use_ML:
-            eta = np.array([0.005, 0.015, 0.0230, 0.038])
-            xi = np.array([0.0028, 0.0048])
+            #eta = np.array([0.005, 0.015, 0.0230, 0.038])
+            #xi = np.array([0.0028, 0.0048])
+            #rc = 10
+            #L = 3
+            #params = [eta, xi, rc, L]
+
+            eta = np.array([0.05, 2, 4, 8, 20, 40, 80])
+            xi = np.array([1, 2, 4])
             rc = 10
-            L = 3
-            params = [eta, xi, rc, L]
+            params = [eta, xi, rc]
             self.autobag = autobag(params)
 
         # File names
@@ -183,7 +188,7 @@ class autobag:
         self.num_structures = 0
 
         # Settings:
-        self.descriptor_func = SivaDescriptor # Set the descriptor function:
+        self.descriptor_func = BehPar # Set the descriptor function:
         self.num_clusters = 10 # Number of clusters.
         self.lamb = 0.01 # Lambda factor for regression.
         
@@ -263,7 +268,7 @@ class TiO2:
         if self.local == False:
             self.prefix = '/home/machri/TiO2'
         else:
-            self.prefix = '/home/mp/Dropbox/Python/TiO2'
+            self.prefix = '/Users/au616397/Dropbox/Python/TiO2'
 
         self.postfix = post_fix
         self.log_file = None#'TiO2_'+self.postfix+'.log'
