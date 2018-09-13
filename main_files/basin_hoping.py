@@ -9,7 +9,7 @@ from sklearn.cluster import KMeans
 
 import numpy as np
 
-from descriptors import SivaDescriptor
+from descriptors import SivaDescriptor, BehPar
 from helper_functions import NormGeoSeries
 from pertubations import fireworks, UnitCellCheck, random_center
 
