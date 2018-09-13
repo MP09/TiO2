@@ -76,7 +76,7 @@ if not os.path.exists(folder):
 jobs = []
 for jj in range(0, num_files):
     job_name = ml_name+main_name+extra_name+'_{}'.format(jj)
-    out_name = ml_name+main_name+extra_name+'_{}.out'.format(jj)
+    out_name = ml_name[0:-1]+main_name+extra_name+'_{}.out'.format(jj)
     jobs.append(job_name)
     with open(folder+job_name+'.sh', 'w') as f:
         ninit = ncalc*jj
