@@ -47,12 +47,12 @@ def random_center(struct, idx, R):
                         atoms.positions[ii, :] = xyz
                         not_found = False
 
-def random_position(struct, idx):
+def random_position(struct, idx, *args):
     """
     Moves the atoms given by idx to random positions within the constraints set by the min/max dimensions of the structure.
     """
     atoms = struct.atoms
-    
+
     bias = np.array([0, 0, 5])
     for ii in idx:
         not_found = True
@@ -61,7 +61,7 @@ def random_position(struct, idx):
             if ProximityCheck(atoms, xyz, ii):
                 atoms.positions[ii, :] = xyz
                 not_found = False
-                        
+
 # Helper functions
 def UnitSphereDist(R=1):
     xyz = np.random.uniform(low=-1, high=1, size=3); xyz *= 1/np.linalg.norm(xyz)*R*np.random.rand(1)
@@ -89,7 +89,7 @@ def UnitCellCheck(atoms):
             return False
     return True
 
-
+pertubation_dict = {0:['fireworks', 'FW', fireworks], 1:['random center', 'RC', random_center], 2:['random position', 'RP', random_position]}
 
 
 

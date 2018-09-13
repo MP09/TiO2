@@ -43,6 +43,7 @@ class basin_hopping:
         self.max_iterations = 10
         self.GMenergy = -1933.30306 # Checked 20/8
         self.perturb_params = 10
+        self.perturb = fireworks
         self.file_prefix = 'TiO2_{}'
 
         # Other stuff.
@@ -71,22 +72,13 @@ class basin_hopping:
         self.trajectory_obj = Trajectory(self.trajectory_file, mode='w')
         self.trajectory_obj_perturb = Trajectory('P_'+self.trajectory_file, mode='w')
 
-        self.perturb = fireworks
-
 
         # Intial printing:
         print('Settings:')
         print('Using machine learning: ' + str(self.use_ML))
 
-    def set_perturbation(self, label):
-        if label == 'fireworks':
-            print('Using the ' + label + 'pertubation')
-            self.perturb = fireworks
-        elif label == 'random_center':
-            print('Using the ' + label + 'pertubation')
-            self.perturb = random_center
-        else:
-            print('This is bad. Check pertubation label')
+    def set_perturbation(self, perturb):
+        self.perturb = perturb
 
     def start(self):
         """
@@ -146,12 +138,12 @@ class basin_hopping:
                 self.autobag.add_structure(cand.atoms, cand_E)
 
             if best_E <= self.GMenergy:
-                return True, niter, best_E
+                return 1, niter, best_E
                 print('Calculation converged!')
             niter += 1
 
 
-        return False, niter, best_E
+        return 0, niter, best_E
         print('Warning: Not converged')
 
 

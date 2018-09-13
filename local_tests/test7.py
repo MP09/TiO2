@@ -13,7 +13,7 @@ traj = Trajectory('test7', mode='w')
 for jj in range(100):
 
     idx = [np.random.randint(low=0, high=num_atoms)]
-    random_position(A, idx)
+    random_position(A, idx, 0)
 
     traj.write(A.atoms)
 
