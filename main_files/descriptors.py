@@ -41,8 +41,8 @@ def BehParAngular(atoms, eta, xi, r_c, lambd=[1, -1]):
                                 c += 1
     return F                    
 
-def BehPar(atoms, eta, xi, rc):
-    I, J, dists = neighbor_list('ijd', atoms, rc)
+def BehPar(atoms, eta, xi, rc, bad_atom=None):
+    I, J, dists, D = neighbor_list('ijdD', atoms, rc)
     dists = dists[:, np.newaxis]
 
     num_radial = len(eta)
@@ -61,9 +61,9 @@ def BehPar(atoms, eta, xi, rc):
             c += 1
 
     # Dont want to count atom(s) in bad_atom
-    #if bad_atom != None:
-    #    mask = J != bad_atom
-    #    J = J[mask]; I = I[mask]; dists = dists[mask]
+    if bad_atom != None:
+        mask = J != bad_atom
+        J = J[mask]; I = I[mask]; dists = dists[mask]
 
     # Radial functions given by:
     for i, j, d in zip(I, J, dists):
@@ -72,22 +72,15 @@ def BehPar(atoms, eta, xi, rc):
     # Angular functions:
     eta_ang = 0.005
     for i in range(num_atoms):
-        perm = []
-        for p in permutations(J[I == i], 2):
-            if (p[1], p[0]) not in perm:
-                perm.append(p)
-
-        for j, k in perm:
-            theta = np.cos(atoms.get_angle(j, i, k)*np.pi/180)
-            rij = atoms.get_distance(i, j)
-            rik = atoms.get_distance(i, k)
-            rjk = atoms.get_distance(j, k)
-            F[i, num_radial::] += (1+lamb*theta)**Xi*np.exp(-eta_ang*(rij**2+rik**2+rjk**2)/rc**2)*BehParCutOff(rij, rc)*BehParCutOff(rik, rc)*BehParCutOff(rjk, rc)
+        neigh_mask = I==i
+        for Rij, rij, j in zip(D[neigh_mask], dists[neigh_mask].ravel(), J[neigh_mask]):
+            for Rik, rik, k in zip(D[neigh_mask], dists[neigh_mask].ravel(), J[neigh_mask]):
+                if j < k:
+                    Rjk = Rik-Rij
+                    rjk = np.sqrt(Rjk@Rjk)
+                    theta = (Rij@Rik)/(np.sqrt(Rij@Rij)*np.sqrt(Rik@Rik))
+                    F[i, num_radial::] += (1+lamb*theta)**Xi*np.exp(-eta_ang*(rij**2+rik**2+rjk**2)/rc**2)*BehParCutOff(rij, rc)*BehParCutOff(rik, rc)*BehParCutOff(rjk, rc)
     F[:, num_radial::] *= 2**(1-Xi)
-
-    return F
-
-
 
 def SivaDescriptor(atoms, eta, xi, rc, L=2):
     """
