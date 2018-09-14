@@ -41,14 +41,17 @@ def BehParAngular(atoms, eta, xi, r_c, lambd=[1, -1]):
                                 c += 1
     return F                    
 
-def BehPar(atoms, eta, xi, rc, bad_atom=None):
+def BehPar(atoms, eta, xi, rc):
+#    print(eta)
+#    print(xi)
+#    print(rc)
     I, J, dists, D = neighbor_list('ijdD', atoms, rc)
     dists = dists[:, np.newaxis]
 
     num_radial = len(eta)
     num_angular = len(xi)*2
     num_atoms = len(atoms)
-    F = np.zeros((num_atoms, num_radial+num_angular))
+    F = np.zeros((num_atoms, num_radial+num_angular+1))
     
     # Adjust angular parameters:
     lamb = np.zeros((num_angular))
@@ -59,11 +62,6 @@ def BehPar(atoms, eta, xi, rc, bad_atom=None):
             Xi[c] = x
             lamb[c] = ii
             c += 1
-
-    # Dont want to count atom(s) in bad_atom
-    if bad_atom != None:
-        mask = J != bad_atom
-        J = J[mask]; I = I[mask]; dists = dists[mask]
 
     # Radial functions given by:
     for i, j, d in zip(I, J, dists):
@@ -81,6 +79,11 @@ def BehPar(atoms, eta, xi, rc, bad_atom=None):
                     theta = (Rij@Rik)/(np.sqrt(Rij@Rij)*np.sqrt(Rik@Rik))
                     F[i, num_radial::] += (1+lamb*theta)**Xi*np.exp(-eta_ang*(rij**2+rik**2+rjk**2)/rc**2)*BehParCutOff(rij, rc)*BehParCutOff(rik, rc)*BehParCutOff(rjk, rc)
     F[:, num_radial::] *= 2**(1-Xi)
+    
+    # Atomic number as last entry:
+    F[: -1] = [atom.get_atomic_number() for atom in atoms]
+
+    return F
 
 def SivaDescriptor(atoms, eta, xi, rc, L=2):
     """
