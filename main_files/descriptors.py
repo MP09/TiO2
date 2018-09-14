@@ -51,7 +51,7 @@ def BehPar(atoms, eta, xi, rc):
     num_radial = len(eta)
     num_angular = len(xi)*2
     num_atoms = len(atoms)
-    F = np.zeros((num_atoms, num_radial+num_angular+1))
+    F = np.zeros((num_atoms, num_radial+num_angular))
     
     # Adjust angular parameters:
     lamb = np.zeros((num_angular))
@@ -81,7 +81,12 @@ def BehPar(atoms, eta, xi, rc):
     F[:, num_radial::] *= 2**(1-Xi)
     
     # Atomic number as last entry:
-    F[: -1] = [atom.get_atomic_number() for atom in atoms]
+    Fz = atoms.get_atomic_numbers().reshape(num_atoms, 1)
+    
+    
+    #F[: -1] = [atom.get_atomic_number() for atom in atoms]
+
+    F = np.concatenate((Fz, F), axis=1)
 
     return F
 

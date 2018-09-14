@@ -146,11 +146,6 @@ class basin_hopping:
         return 0, niter, best_E
         print('Warning: Not converged')
 
-
-    #def perturb(self, cand, idx):
-    #    random_center(cand, idx, self.FireworkRadius)
-    #    #fireworks(cand, idx, self.FireworkRadius)
-
     def pick_func(self, N):
         if self.use_ML:
             return self.autobag.pick_atom(N)   
