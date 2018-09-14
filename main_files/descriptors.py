@@ -72,7 +72,6 @@ def BehPar(atoms, eta, xi, rc, bad_atom=None):
     # Angular functions:
     eta_ang = 0.005
     for i in range(num_atoms):
-<<<<<<< HEAD
         neigh_mask = I==i
         for Rij, rij, j in zip(D[neigh_mask], dists[neigh_mask].ravel(), J[neigh_mask]):
             for Rik, rik, k in zip(D[neigh_mask], dists[neigh_mask].ravel(), J[neigh_mask]):
@@ -81,20 +80,6 @@ def BehPar(atoms, eta, xi, rc, bad_atom=None):
                     rjk = np.sqrt(Rjk@Rjk)
                     theta = (Rij@Rik)/(np.sqrt(Rij@Rij)*np.sqrt(Rik@Rik))
                     F[i, num_radial::] += (1+lamb*theta)**Xi*np.exp(-eta_ang*(rij**2+rik**2+rjk**2)/rc**2)*BehParCutOff(rij, rc)*BehParCutOff(rik, rc)*BehParCutOff(rjk, rc)
-=======
-        perm = []
-        for p in permutations(J[I == i], 2):
-            if (p[1], p[0]) not in perm:
-                perm.append(p)
-
-        for j, k in perm:
-            #theta = np.cos(atoms.get_angle(j, i, k)*np.pi/180)
-            rij = atoms.get_distance(i, j); Rij = atoms.positions[j, :]-atoms.positions[i, :]
-            rik = atoms.get_distance(i, k); Rik = atoms.positions[k, :]-atoms.positions[i, :]
-            rjk = atoms.get_distance(j, k)
-            theta = (Rij@Rik)/(np.sqrt(Rij@Rij)*np.sqrt(Rik@Rik))
-            F[i, num_radial::] += (1+lamb*theta)**Xi*np.exp(-eta_ang*(rij**2+rik**2+rjk**2)/rc**2)*BehParCutOff(rij, rc)*BehParCutOff(rik, rc)*BehParCutOff(rjk, rc)
->>>>>>> f576a7f376841e153fb20a810ffa637e4117ace5
     F[:, num_radial::] *= 2**(1-Xi)
 
 def SivaDescriptor(atoms, eta, xi, rc, L=2):
